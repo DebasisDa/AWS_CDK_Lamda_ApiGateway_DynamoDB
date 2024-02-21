@@ -1,0 +1,40 @@
+.........................................................................................................
+.........................................................................................................
+
+Step 1 : Install asw cli on windows system
+
+step 2 : aws configure  with  aws acces and scret key
+
+step 3 : Check aws configure details :  aws sts get-caller-identity
+
+step 4 : npx cdk init app --language typescript
+
+step 5 : npm install -g aws-cdk &&  cdk bootstrap
+
+step 6 : cdk deploy
+
+step 7 :  npm i aws-cdk-lib //For api gateway, REST API
+
+step 8 : cdk destry // Destry lamda
+
+step 9 : 
+
+step 10 : 
+
+step 11 : 
+
+step 12 : 
+
+step 13 : 
+
+step 14 : 
+
+step 15 : 
+
+step 16 : 
+
+step 17 : 
+
+step 18 : 
+
+step 19 : 
